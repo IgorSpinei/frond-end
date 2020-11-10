@@ -1,0 +1,13 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>ABOUT ME</title>
+</head>
+<body style="background-color:powderblue;">
+
+<h1 style="text-align:center; font-size:300%; padding-top: 50px">ABOUT ME</h1>
+<p style="text-align:center; font-size:160%; padding: 100px;">My name is Spinei Igor. I am a 3rd year student at TUM, CIM faculty. I live in the city of Calarasi - a beautiful town that is situated at 50km from Chisinau. I am an energetic, positive and friendly person who wants a beautiful career in the IT kingdom.</p>
+
+</body>
+</html>
